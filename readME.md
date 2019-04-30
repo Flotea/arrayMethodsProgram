@@ -2,5 +2,8 @@ PURPOSE: the purpose of this assignment is for you to practice your array method
 
 STEPS:
 1. Create an index, css, & js file and link them.  Test the linking to make sure it's done successfully.
-2. Brainstorm and conceptualize a simple application that uses at least 2 array methods.
+2. Brainstorm and conceptualize a simple application that uses at least 2 array methods.  Create a mockup using a google drawing.  Submit the mockup for full credit.  The mockup should show the layout & explain how the program works.
+
+EXTRA CREDIT:
 3. Build the application by creating an array and using two array methods.
+
