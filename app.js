@@ -7,6 +7,10 @@ var visList = document.getElementById("list");
 console.log(list);
 visList.innerHTML = list;
 
+var score = 0;
+
+
+
 submit.addEventListener("click", function(){
     var add = text.value;
     list.push(add);
@@ -24,6 +28,9 @@ fin.addEventListener("click", function(){
     list.shift();
     console.log(list);
     visList.removeChild(visList.childNodes[0]); 
+    score ++;
+    document.getElementById("score").innerHTML = "Things Done: " + score;
+
 
 });
 

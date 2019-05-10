@@ -1,3 +1,55 @@
-#visList{
-    background-color: RGB(255, 192, 240);
+#everything{
+    display:flex;
+    justify-content: center;
+    padding-top: 50px;
+
 }
+
+/*Title Area Start*/
+#tNB{
+    border: ridge white 10px;
+    border-radius: 20%;
+    margin-right: 50px;
+    height: 200px;
+    width:300px;
+    text-align: center;
+    background-color: rgb(255, 204, 232);
+
+}
+
+#title{
+    font-family: 'Graduate', cursive;
+
+}
+#score{
+    font-family: 'Arima Madurai';
+}
+
+
+
+button{
+    font-family: 'Arima Madurai', cursive;
+    
+}
+/*Title Area End*/
+/*List Start*/
+#visList{
+    background-color: rgb(255, 204, 232);
+    height: 500px;
+    width: 400px;
+    border-radius: 10%;
+    border: ridge white 10px;
+    font-size: 30px;
+
+}
+
+#list{
+    padding-left: 40px;
+    font-family: 'Arima Madurai', cursive;
+}
+#tNS{
+    text-align:center;
+}
+/*List End*/
+
+
